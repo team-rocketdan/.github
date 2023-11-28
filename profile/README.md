@@ -1,4 +1,4 @@
-# 모바일 키오스크 서비스, MAKS. 
+# 모바일 AI 키오스크 서비스, MAKS. 
 
 <img src="https://github.com/soletree/EwhaPlaygirls/assets/97100404/0a6ceb6b-9fb9-4bc2-9656-2445b672d53c" alt="App Logo" width=100 height=100> 
 
