@@ -19,7 +19,7 @@
 - 점원과 대화하듯이 음식을 주문하고 싶은 이냐옹씨 🤔
 
 ## 기능 설명 
-|![질문](https://github.com/soletree/EwhaPlaygirls/assets/97100404/d3221969-70d7-4e7e-b7b5-330637fa8dd4)|![가게이동](https://github.com/soletree/EwhaPlaygirls/assets/97100404/404634a0-8ae7-4e65-bd91-62b25654f2dc)|![메뉴 담기](https://github.com/soletree/EwhaPlaygirls/assets/97100404/c32a48fd-9e48-4bea-a440-bd740bc8a988)|![주문](https://github.com/soletree/EwhaPlaygirls/assets/97100404/e9a80983-0054-4c25-b5aa-91ca592e6548)|![결제](https://github.com/soletree/EwhaPlaygirls/assets/97100404/c7769f22-11d0-48ce-b71f-1c85ac62e195)|
+|![이름](https://github.com/soletree/EwhaPlaygirls/assets/97100404/5136d0e3-271a-4a78-930b-273c9f477c79)|![가게이동](https://github.com/soletree/EwhaPlaygirls/assets/97100404/404634a0-8ae7-4e65-bd91-62b25654f2dc)|![메뉴 담기](https://github.com/soletree/EwhaPlaygirls/assets/97100404/c32a48fd-9e48-4bea-a440-bd740bc8a988)|![주문](https://github.com/soletree/EwhaPlaygirls/assets/97100404/e9a80983-0054-4c25-b5aa-91ca592e6548)|![결제](https://github.com/soletree/EwhaPlaygirls/assets/97100404/c7769f22-11d0-48ce-b71f-1c85ac62e195)|
 |:---:|:---:|:---:|:---:|:---:|
 |음성 인식|화면 이동|메뉴 담기|주문|결제|
 
